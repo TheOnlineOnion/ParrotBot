@@ -1,0 +1,2 @@
+__________**PROJECT_LOG**__________
+#aan het einde van elke cyclus moeten alle aanpassingen aan het ontwerp in dit bestand worden gezet#
